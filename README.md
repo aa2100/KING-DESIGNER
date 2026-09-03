@@ -1,4 +1,4 @@
-# 👑 KING DESIGNER
+# KING DESIGNER
 
 A modern, full-featured Arabic social design portfolio platform with RTL support, real-time messaging, and professional portfolio management.
 
